@@ -1,0 +1,4328 @@
+Rank,Country,Speed
+#,"
+
+United Arab Emirates
+
+",Mbps
+1,"
+
+Qatar
+
+",398.40
+-,"
+
+South Korea
+
+",332.94
+2,"
+
+Bulgaria
+
+",264.40
+-,"
+
+Kuwait
+
+",257.34
+3,"
+
+Macau (SAR)
+
+",246.25
+-,"
+
+Denmark
+
+",238.38
+4,"
+
+Iceland
+
+",227.30
++5,"
+
+Portugal
+
+",222.37
+5,"
+
+Norway
+
+",218.41
+-1,"
+
+China
+
+",209.55
+6,"
+
+Uruguay
+
+",209.50
+-,"
+
+United States
+
+",199.58
+7,"
+
+Sweden
+
+",189.66
+-2,"
+
+Singapore
+
+",187.11
+8,"
+
+Saudi Arabia
+
+",184.06
++2,"
+
+India
+
+",183.29
+9,"
+
+Cyprus
+
+",180.43
++17,"
+
+Malaysia
+
+",179.82
+10,"
+
+Bahrain
+
+",177.67
+-3,"
+
+Croatia
+
+",174.33
+11,"
+
+Australia
+
+",173.62
+-,"
+
+Ethiopia
+
+",170.92
+12,"
+
+Switzerland
+
+",168.89
+-4,"
+
+North Macedonia
+
+",168.40
+13,"
+
+France
+
+",161.21
++5,"
+
+New Zealand
+
+",158.64
+14,"
+
+Brazil
+
+",155.70
++3,"
+
+Brunei
+
+",155.48
+15,"
+
+Luxembourg
+
+",146.60
++1,"
+
+Finland
+
+",145.46
+16,"
+
+Lithuania
+
+",141.50
+-1,"
+
+Kosovo
+
+",137.83
+17,"
+
+Taiwan
+
+",137.80
+-5,"
+
+Netherlands
+
+",137.77
+18,"
+
+Canada
+
+",136.71
++2,"
+
+Greece
+
+",133.70
+19,"
+
+Estonia
+
+",131.56
+-6,"
+
+Germany
+
+",128.66
+20,"
+
+Belgium
+
+",125.42
+-6,"
+
+Hong Kong (SAR)
+
+",123.32
+21,"
+
+Oman
+
+",122.33
++11,"
+
+Latvia
+
+",120.56
+22,"
+
+Slovenia
+
+",119.74
+-3,"
+
+Malta
+
+",113.78
+23,"
+
+Maldives
+
+",112.54
++56,"
+
+Austria
+
+",109.30
+24,"
+
+Spain
+
+",108.71
+-3,"
+
+Hungary
+
+",104.67
+25,"
+
+Romania
+
+",98.07
++3,"
+
+Italy
+
+",95.75
+26,"
+
+United Kingdom
+
+",95.45
+-1,"
+
+Ireland
+
+",90.23
+27,"
+
+Guatemala
+
+",89.97
+-5,"
+
+Israel
+
+",87.23
+28,"
+
+Czechia
+
+",86.58
+-5,"
+
+South Africa
+
+",86.57
+29,"
+
+Thailand
+
+",86.25
+-5,"
+
+Kazakhstan
+
+",83.86
+30,"
+
+Japan
+
+",83.80
+-3,"
+
+Slovakia
+
+",81.58
+31,"
+
+Nigeria
+
+",81.03
+-2,"
+
+Uganda
+
+",80.56
+32,"
+
+Montenegro
+
+",78.54
++4,"
+
+Dominican Republic
+
+",77.41
+33,"
+
+Chile
+
+",77.03
++52,"
+
+Albania
+
+",74.51
+34,"
+
+Serbia
+
+",68.77
+-3,"
+
+Mauritius
+
+",67.34
+35,"
+
+Poland
+
+",67.03
+-1,"
+
+Philippines
+
+",64.22
+36,"
+
+Mexico
+
+",63.57
+-1,"
+
+Turkey
+
+",62.23
+37,"
+
+Togo
+
+",61.74
++5,"
+
+Azerbaijan
+
+",60.16
+38,"
+
+Sri Lanka
+
+",57.45
+-8,"
+
+Vietnam
+
+",57.39
+39,"
+
+Morocco
+
+",57.27
+-1,"
+
+Angola
+
+",54.32
+40,"
+
+Kenya
+
+",52.42
+-7,"
+
+Honduras
+
+",51.75
+41,"
+
+Guyana
+
+",51.29
+-1,"
+
+Tanzania
+
+",50.95
+42,"
+
+Georgia
+
+",50.93
+-3,"
+
+Iran
+
+",49.91
+43,"
+
+Uzbekistan
+
+",48.12
+-2,"
+
+Moldova
+
+",47.18
+44,"
+
+Jamaica
+
+",45.75
++2,"
+
+Zimbabwe
+
+",45.72
+45,"
+
+Costa Rica
+
+",43.54
+-8,"
+
+Trinidad and Tobago
+
+",42.75
+46,"
+
+Lebanon
+
+",42.56
+-3,"
+
+Russia
+
+",42.38
+47,"
+
+Argentina
+
+",40.45
+-3,"
+
+Jordan
+
+",40.14
+48,"
+
+Tunisia
+
+",40.14
++2,"
+
+Mozambique
+
+",39.21
+49,"
+
+Iraq
+
+",39.06
+-1,"
+
+Kyrgyzstan
+
+",38.85
+50,"
+
+Zambia
+
+",38.53
+-3,"
+
+Cambodia
+
+",37.68
+51,"
+
+Laos
+
+",36.52
++1,"
+
+Ukraine
+
+",36.21
+52,"
+
+Mongolia
+
+",36.06
++5,"
+
+Egypt
+
+",35.47
+53,"
+
+Côte d'Ivoire
+
+",35.23
+-2,"
+
+Senegal
+
+",35.21
+54,"
+
+Indonesia
+
+",34.70
+-,"
+
+El Salvador
+
+",34.54
+55,"
+
+Burkina Faso
+
+",34.08
+-2,"
+
+Armenia
+
+",34.01
+56,"
+
+Ecuador
+
+",33.97
++2,"
+
+Bosnia and Herzegovina
+
+",33.85
+57,"
+
+DR Congo
+
+",33.52
+-8,"
+
+Myanmar (Burma)
+
+",32.40
+58,"
+
+Algeria
+
+",32.22
+-3,"
+
+Fiji
+
+",32.03
+59,"
+
+Peru
+
+",28.98
+-3,"
+
+Somalia
+
+",28.64
+60,"
+
+Bangladesh
+
+",28.50
++2,"
+
+Nicaragua
+
+",28.35
+61,"
+
+Panama
+
+",28.24
+-2,"
+
+Belarus
+
+",28.06
+62,"
+
+Papua New Guinea
+
+",27.26
++3,"
+
+Paraguay
+
+",26.65
+63,"
+
+Pakistan
+
+",25.75
+-18,"
+
+Tajikistan
+
+",22.89
+64,"
+
+Namibia
+
+",22.86
++8,"
+
+Venezuela
+
+",20.97
+65,"
+
+Ghana
+
+",20.91
+-4,"
+
+Nepal
+
+",20.76
+66,"
+
+Colombia
+
+",20.41
+-3,"
+
+Cameroon
+
+",20.02
+67,"
+
+Bolivia
+
+",18.73
++7,"
+
+Syria
+
+",18.24
+68,"
+
+Haiti
+
+",17.70
+-2,"
+
+Libya
+
+",17.13
+69,"
+
+Sudan
+
+",16.89
+-5,"
+
+Cuba
+
+",16.23
+70,"
+
+Yemen
+
+",15.43
+-,"
+
+Afghanistan
+
+",12.13
+71,"
+
+Hong Kong (SAR)
+
+",7.63
+-4,"
+
+Singapore
+
+",Mbps
+72,"
+
+Chile
+
+",340.70
+-4,"
+
+Iceland
+
+",334.88
+73,"
+
+France
+
+",334.02
+-,"
+
+Switzerland
+
+",315.98
+74,"
+
+Monaco
+
+",306.57
++2,"
+
+China
+
+",303.97
+75,"
+
+United Arab Emirates
+
+",302.48
+-,"
+
+Denmark
+
+",285.53
+76,"
+
+Thailand
+
+",285.19
++38,"
+
+Hungary
+
+",283.81
+77,"
+
+United States
+
+",280.34
+-6,"
+
+Romania
+
+",278.90
+78,"
+
+Japan
+
+",276.64
++3,"
+
+Spain
+
+",275.27
+79,"
+
+Qatar
+
+",270.44
++38,"
+
+Canada
+
+",266.71
+80,"
+
+Israel
+
+",261.43
+-,"
+
+Moldova
+
+",260.93
+81,"
+
+New Zealand
+
+",259.99
+-3,"
+
+South Korea
+
+",248.01
+82,"
+
+Liechtenstein
+
+",242.47
+-5,"
+
+Netherlands
+
+",241.25
+83,"
+
+Macau (SAR)
+
+",240.27
+-14,"
+
+Portugal
+
+",234.59
+84,"
+
+Luxembourg
+
+",234.11
+-,"
+
+Poland
+
+",225.85
+85,"
+
+Lithuania
+
+",218.80
+-2,"
+
+Uruguay
+
+",216.89
+86,"
+
+Andorra
+
+",214.64
++2,"
+
+Sweden
+
+",214.49
+87,"
+
+Taiwan
+
+",213.51
+-5,"
+
+Panama
+
+",211.93
+88,"
+
+Malta
+
+",207.35
+-1,"
+
+Norway
+
+",205.21
+89,"
+
+Kuwait
+
+",204.54
+-,"
+
+Brazil
+
+",198.85
+90,"
+
+Finland
+
+",198.46
+-4,"
+
+Latvia
+
+",197.09
+91,"
+
+Ireland
+
+",185.58
+-,"
+
+Belgium
+
+",181.44
+92,"
+
+Slovakia
+
+",180.50
++4,"
+
+United Kingdom
+
+",178.34
+93,"
+
+Slovenia
+
+",172.82
++2,"
+
+Barbados
+
+",172.29
+94,"
+
+Italy
+
+",172.22
+-4,"
+
+Germany
+
+",169.19
+94,"
+
+Jordan
+
+",168.59
++3,"
+
+Malaysia
+
+",161.38
+96,"
+
+Colombia
+
+",160.50
++5,"
+
+Peru
+
+",159.81
+97,"
+
+Vietnam
+
+",159.73
+-5,"
+
+Saudi Arabia
+
+",148.06
+98,"
+
+Saint Lucia
+
+",146.94
+-4,"
+
+Philippines
+
+",142.14
+99,"
+
+Saint Vincent and the Grenadines
+
+",142.12
+-6,"
+
+Austria
+
+",139.58
+100,"
+
+Czechia
+
+",137.84
+-2,"
+
+Bulgaria
+
+",137.68
+101,"
+
+Dominica
+
+",136.86
++5,"
+
+Argentina
+
+",134.84
+102,"
+
+Trinidad and Tobago
+
+",133.59
++3,"
+
+Russia
+
+",131.91
+103,"
+
+Serbia
+
+",129.58
+-4,"
+
+San Marino
+
+",128.19
+104,"
+
+Croatia
+
+",127.45
++6,"
+
+Brunei
+
+",122.87
+105,"
+
+Ukraine
+
+",122.25
++4,"
+
+Cyprus
+
+",119.53
+106,"
+
+Estonia
+
+",118.62
+-4,"
+
+Grenada
+
+",117.91
+107,"
+
+Ecuador
+
+",117.84
+-,"
+
+Paraguay
+
+",117.08
+108,"
+
+Oman
+
+",110.67
+-,"
+
+Guyana
+
+",109.83
+109,"
+
+Australia
+
+",109.31
+-9,"
+
+Bahrain
+
+",105.55
+110,"
+
+Costa Rica
+
+",105.52
++8,"
+
+Côte d'Ivoire
+
+",105.12
+111,"
+
+Belarus
+
+",104.47
+-8,"
+
+Mexico
+
+",103.89
+112,"
+
+The Bahamas
+
+",98.37
+-1,"
+
+Armenia
+
+",96.97
+113,"
+
+Palestine
+
+",95.97
+-1,"
+
+Montenegro
+
+",93.38
+114,"
+
+Kosovo
+
+",92.09
++8,"
+
+Nepal
+
+",90.67
+115,"
+
+India
+
+",89.33
++1,"
+
+Albania
+
+",87.09
+116,"
+
+Kazakhstan
+
+",85.27
+-1,"
+
+Jamaica
+
+",84.66
+117,"
+
+Turkey
+
+",83.39
++7,"
+
+Saint Kitts and Nevis
+
+",81.80
+118,"
+
+South Africa
+
+",80.25
++2,"
+
+Uzbekistan
+
+",78.31
+119,"
+
+Nicaragua
+
+",77.91
++7,"
+
+North Macedonia
+
+",73.82
+120,"
+
+Mongolia
+
+",70.61
++3,"
+
+Greece
+
+",68.92
+121,"
+
+Mauritius
+
+",68.65
+-,"
+
+Belize
+
+",68.43
+122,"
+
+Ghana
+
+",67.15
++7,"
+
+Guatemala
+
+",66.04
+123,"
+
+Venezuela
+
+",65.66
++2,"
+
+Bosnia and Herzegovina
+
+",65.44
+124,"
+
+El Salvador
+
+",64.13
+-5,"
+
+Burkina Faso
+
+",64.05
+125,"
+
+Kyrgyzstan
+
+",63.38
++2,"
+
+Bangladesh
+
+",63.36
+126,"
+
+Egypt
+
+",59.09
++4,"
+
+Congo
+
+",58.82
+127,"
+
+Haiti
+
+",56.49
++7,"
+
+Dominican Republic
+
+",53.46
+128,"
+
+Laos
+
+",52.51
+-,"
+
+Gabon
+
+",52.15
+129,"
+
+Rwanda
+
+",51.44
++11,"
+
+Tajikistan
+
+",51.06
+130,"
+
+Honduras
+
+",50.11
++3,"
+
+Seychelles
+
+",47.53
+131,"
+
+Iraq
+
+",44.98
++1,"
+
+Cambodia
+
+",43.95
+132,"
+
+Sri Lanka
+
+",42.21
++4,"
+
+Senegal
+
+",41.95
+133,"
+
+Togo
+
+",41.24
+-2,"
+
+Indonesia
+
+",41.14
+134,"
+
+Madagascar
+
+",40.94
++7,"
+
+Morocco
+
+",40.83
+135,"
+
+Nigeria
+
+",39.82
++4,"
+
+Bolivia
+
+",39.47
+136,"
+
+Djibouti
+
+",39.10
++2,"
+
+Antigua and Barbuda
+
+",38.95
+137,"
+
+Azerbaijan
+
+",38.77
+-,"
+
+Western Sahara
+
+",38.56
+138,"
+
+Lesotho
+
+",38.04
++4,"
+
+Malawi
+
+",37.93
+139,"
+
+Maldives
+
+",35.22
++4,"
+
+Bhutan
+
+",33.28
+140,"
+
+Niger
+
+",32.88
++4,"
+
+Georgia
+
+",32.72
+141,"
+
+Tanzania
+
+",31.71
++4,"
+
+Cameroon
+
+",31.53
+#,"
+
+Angola
+
+",31.25
+1,"
+
+Fiji
+
+",31.04
+-,"
+
+Benin
+
+",30.25
+2,"
+
+Cape Verde
+
+",29.93
+-,"
+
+Myanmar (Burma)
+
+",29.88
+3,"
+
+Micronesia
+
+",29.44
+-,"
+
+Somalia
+
+",29.24
+4,"
+
+Zambia
+
+",29.21
++1,"
+
+Mozambique
+
+",28.67
+5,"
+
+Mali
+
+",28.56
++1,"
+
+Mauritania
+
+",27.96
+6,"
+
+Zimbabwe
+
+",27.86
++1,"
+
+Swaziland
+
+",27.60
+7,"
+
+Guinea
+
+",25.49
+-3,"
+
+Ethiopia
+
+",25.23
+8,"
+
+Uganda
+
+",25.13
++2,"
+
+Iran
+
+",24.95
+9,"
+
+Sierra Leone
+
+",24.89
+-1,"
+
+Namibia
+
+",24.74
+10,"
+
+DR Congo
+
+",24.35
+-1,"
+
+Algeria
+
+",24.28
+11,"
+
+Kenya
+
+",23.74
++1,"
+
+Lebanon
+
+",23.13
+12,"
+
+Suriname
+
+",22.87
++3,"
+
+Sudan
+
+",22.56
+13,"
+
+Papua New Guinea
+
+",22.33
+-2,"
+
+East Timor
+
+",21.02
+14,"
+
+Pakistan
+
+",20.87
+-,"
+
+Botswana
+
+",20.37
+15,"
+
+Vanuatu
+
+",20.07
++4,"
+
+Libya
+
+",19.44
+16,"
+
+Syria
+
+",18.31
++1,"
+
+Liberia
+
+",17.95
+17,"
+
+The Gambia
+
+",17.80
+-4,"
+
+Tunisia
+
+",16.25
+18,"
+
+Yemen
+
+",15.45
+-,"
+
+Cuba
+
+",13.97
+19,"
+
+Burundi
+
+",13.61
+-3,"
+
+Afghanistan
+
+",12.07
+20,"
+
+United Arab Emirates
+
+",11.19
++3,"
+
+Qatar
+
+",8.61
+21,"
+
+China
+
+",Mbps
+-1,"
+
+Kuwait
+
+",211.58
+22,"
+
+Macau (SAR)
+
+",187.55
+-1,"
+
+Norway
+
+",167.98
+23,"
+
+Iceland
+
+",161.66
+-1,"
+
+Bulgaria
+
+",151.94
+24,"
+
+Denmark
+
+",143.44
+-,"
+
+South Korea
+
+",131.62
+25,"
+
+Netherlands
+
+",128.83
+-,"
+
+Brunei
+
+",127.50
+26,"
+
+Portugal
+
+",121.07
++3,"
+
+Sweden
+
+",120.36
+27,"
+
+United States
+
+",102.82
+-1,"
+
+Australia
+
+",101.31
+28,"
+
+Saudi Arabia
+
+",98.85
++2,"
+
+Luxembourg
+
+",97.09
+29,"
+
+Finland
+
+",96.05
++6,"
+
+Croatia
+
+",95.06
+30,"
+
+Switzerland
+
+",92.36
+-3,"
+
+Bahrain
+
+",92.27
+31,"
+
+Singapore
+
+",91.40
++7,"
+
+Canada
+
+",90.52
+32,"
+
+Lithuania
+
+",90.49
++1,"
+
+France
+
+",85.69
+33,"
+
+Austria
+
+",85.10
+-5,"
+
+North Macedonia
+
+",83.50
+34,"
+
+Estonia
+
+",82.62
+-3,"
+
+Maldives
+
+",82.39
+35,"
+
+Taiwan
+
+",82.00
+-3,"
+
+Uruguay
+
+",78.03
+36,"
+
+New Zealand
+
+",74.34
+-,"
+
+Greece
+
+",73.03
+37,"
+
+Latvia
+
+",72.94
+-3,"
+
+Hong Kong (SAR)
+
+",70.01
+38,"
+
+Belgium
+
+",68.98
+-1,"
+
+Cyprus
+
+",68.18
+39,"
+
+Oman
+
+",67.90
+-,"
+
+Slovenia
+
+",67.63
+40,"
+
+Malaysia
+
+",66.33
++1,"
+
+Germany
+
+",64.08
+41,"
+
+India
+
+",62.06
++1,"
+
+Romania
+
+",61.50
+42,"
+
+Czechia
+
+",60.65
+-2,"
+
+Serbia
+
+",54.05
+43,"
+
+Malta
+
+",53.14
++1,"
+
+Montenegro
+
+",52.29
+44,"
+
+Albania
+
+",51.39
+-1,"
+
+Italy
+
+",51.25
+45,"
+
+Brazil
+
+",51.02
+-,"
+
+Poland
+
+",50.85
+46,"
+
+Hungary
+
+",48.72
++1,"
+
+Kosovo
+
+",47.02
+47,"
+
+Slovakia
+
+",47.00
++3,"
+
+Azerbaijan
+
+",46.03
+48,"
+
+Japan
+
+",45.45
+-,"
+
+Vietnam
+
+",45.10
+49,"
+
+United Kingdom
+
+",44.88
++2,"
+
+South Africa
+
+",44.50
+50,"
+
+Thailand
+
+",44.13
+-1,"
+
+Spain
+
+",43.99
+51,"
+
+Mauritius
+
+",43.80
++1,"
+
+Morocco
+
+",40.67
+52,"
+
+Georgia
+
+",40.21
++2,"
+
+Kazakhstan
+
+",38.70
+53,"
+
+Israel
+
+",36.64
+-7,"
+
+Turkey
+
+",36.31
+54,"
+
+Togo
+
+",36.03
++1,"
+
+Ethiopia
+
+",35.98
+55,"
+
+Ireland
+
+",35.92
++2,"
+
+Uganda
+
+",35.56
+56,"
+
+Lebanon
+
+",34.72
+-3,"
+
+Chile
+
+",34.03
+57,"
+
+Iran
+
+",32.94
++6,"
+
+Jamaica
+
+",32.25
+58,"
+
+Moldova
+
+",31.88
+-,"
+
+Trinidad and Tobago
+
+",31.67
+59,"
+
+Guatemala
+
+",31.66
+-3,"
+
+Honduras
+
+",31.14
+60,"
+
+Zimbabwe
+
+",29.10
++5,"
+
+Iraq
+
+",28.89
+61,"
+
+Costa Rica
+
+",27.98
+-,"
+
+Laos
+
+",27.91
+62,"
+
+Nigeria
+
+",27.45
+-2,"
+
+Philippines
+
+",27.22
+63,"
+
+Argentina
+
+",27.10
+-4,"
+
+Kyrgyzstan
+
+",26.60
+64,"
+
+Mexico
+
+",26.36
+-2,"
+
+Guyana
+
+",26.24
+65,"
+
+Russia
+
+",26.09
+-1,"
+
+Cambodia
+
+",25.86
+66,"
+
+Tunisia
+
+",25.42
++1,"
+
+Ukraine
+
+",25.17
+67,"
+
+El Salvador
+
+",25.08
++11,"
+
+Senegal
+
+",25.06
+68,"
+
+Egypt
+
+",25.01
++30,"
+
+Indonesia
+
+",24.48
+69,"
+
+Myanmar (Burma)
+
+",24.41
+-1,"
+
+Uzbekistan
+
+",24.25
+70,"
+
+Tanzania
+
+",23.98
++6,"
+
+Ecuador
+
+",23.86
+71,"
+
+Bosnia and Herzegovina
+
+",23.63
+-1,"
+
+Kenya
+
+",22.79
+72,"
+
+Jordan
+
+",22.73
+-6,"
+
+Côte d'Ivoire
+
+",22.47
+73,"
+
+Armenia
+
+",22.44
+-2,"
+
+Dominican Republic
+
+",21.59
+74,"
+
+Mozambique
+
+",21.34
+-2,"
+
+Algeria
+
+",21.33
+75,"
+
+DR Congo
+
+",21.33
+-6,"
+
+Burkina Faso
+
+",21.19
+76,"
+
+Bangladesh
+
+",21.08
+-1,"
+
+Angola
+
+",20.80
+77,"
+
+Panama
+
+",20.36
+-3,"
+
+Paraguay
+
+",20.03
+78,"
+
+Zambia
+
+",19.44
+-1,"
+
+Fiji
+
+",18.92
+79,"
+
+Sri Lanka
+
+",18.11
+-6,"
+
+Peru
+
+",18.08
+80,"
+
+Papua New Guinea
+
+",17.75
+-1,"
+
+Somalia
+
+",17.52
+81,"
+
+Nicaragua
+
+",17.10
+-,"
+
+Mongolia
+
+",16.81
+82,"
+
+Pakistan
+
+",16.43
+-2,"
+
+Namibia
+
+",16.34
+83,"
+
+Cameroon
+
+",16.33
++1,"
+
+Nepal
+
+",15.82
+84,"
+
+Colombia
+
+",14.53
+-2,"
+
+Belarus
+
+",12.73
+85,"
+
+Ghana
+
+",12.64
+-2,"
+
+Syria
+
+",12.50
+86,"
+
+Venezuela
+
+",11.49
++5,"
+
+Haiti
+
+",11.43
+87,"
+
+Bolivia
+
+",11.08
++1,"
+
+Tajikistan
+
+",10.74
+88,"
+
+Libya
+
+",10.50
+-3,"
+
+Sudan
+
+",10.07
+89,"
+
+Yemen
+
+",9.76
+-3,"
+
+Cuba
+
+",9.70
+90,"
+
+Afghanistan
+
+",7.26
++4,"
+Dubai, United Arab Emirates
+",6.99
+91,"
+Beijing, China
+",5.31
+-4,"
+Shanghai, China
+",4.89
+92,"
+Ar-Rayyan, Qatar
+",Mbps
+-3,"
+Abu Dhabi, United Arab Emirates
+",255.07
+93,"
+Riyadh, Saudi Arabia
+",241.78
+-,"
+Doha, Qatar
+",235.06
+94,"
+Oslo, Norway
+",227.18
+-2,"
+Copenhagen, Denmark
+",205.69
+95,"
+Sofia, Bulgaria
+",181.77
+-5,"
+Antwerp, Belgium
+",179.60
+96,"
+Los Angeles, United States
+",178.63
++1,"
+New York, United States
+",162.84
+97,"
+Stockholm, Sweden
+",152.34
+-1,"
+Gothenburg, Sweden
+",150.78
+98,"
+Lisbon, Portugal
+",144.26
++5,"
+Porto, Portugal
+",141.80
+99,"
+Kuwait City, Kuwait
+",141.27
+-4,"
+Busan, South Korea
+",133.06
+100,"
+Seoul, South Korea
+",132.30
++5,"
+Rotterdam, Netherlands
+",129.14
+101,"
+Toronto, Canada
+",127.05
+-,"
+Melbourne (Greater), Australia
+",125.99
+102,"
+Sydney, Australia
+",123.47
++2,"
+Zagreb, Croatia
+",121.50
+103,"
+Amsterdam, Netherlands
+",120.06
+-3,"
+Skopje, North Macedonia
+",117.64
+104,"
+Paris, France
+",117.35
+-5,"
+Zürich, Switzerland
+",114.23
+105,"
+Helsinki, Finland
+",113.00
++5,"
+Montreal, Canada
+",111.00
+106,"
+Johor Bahru, Malaysia
+",102.14
++3,"
+Vilnius, Lithuania
+",101.15
+107,"
+Vienna, Austria
+",99.64
+-5,"
+Montevideo, Uruguay
+",92.46
+108,"
+Lyon, France
+",88.83
+-1,"
+Manama, Bahrain
+",88.43
+109,"
+São Paulo, Brazil
+",86.90
+-3,"
+Auckland, New Zealand
+",84.13
+110,"
+Geneva, Switzerland
+",82.84
+-2,"
+New Taipei, Taiwan
+",81.64
+111,"
+Taipei, Taiwan
+",79.13
++1,"
+Riga, Latvia
+",78.98
+112,"
+Rio de Janeiro, Brazil
+",75.42
+-1,"
+Berlin, Germany
+",75.12
+113,"
+Hamburg, Germany
+",74.37
+-,"
+Thessaloniki, Greece
+",73.78
+114,"
+Bucharest, Romania
+",73.57
++3,"
+Muscat, Oman
+",73.36
+115,"
+Jeddah, Saudi Arabia
+",71.92
++3,"
+Johannesburg, South Africa
+",71.77
+116,"
+Athens, Greece
+",71.28
+-1,"
+Prague, Czechia
+",70.13
+117,"
+Kuala Lumpur, Malaysia
+",69.35
+-3,"
+Brussels, Belgium
+",66.52
+118,"
+London, United Kingdom
+",65.74
++11,"
+Milan, Italy
+",64.90
+119,"
+Manchester, United Kingdom
+",63.71
+-,"
+Madrid, Spain
+",62.41
+120,"
+Belgrade, Serbia
+",60.87
+-4,"
+Delhi, India
+",58.82
+121,"
+Barcelona, Spain
+",57.71
++3,"
+Rome, Italy
+",56.77
+122,"
+Osaka, Japan
+",56.40
++1,"
+Budapest, Hungary
+",55.31
+123,"
+Tokyo, Japan
+",55.27
++2,"
+Dublin, Ireland
+",54.76
+124,"
+Kraków, Poland
+",54.04
+-2,"
+Almaty, Kazakhstan
+",52.95
+125,"
+Warsaw, Poland
+",51.74
++2,"
+Kampala, Uganda
+",51.35
+126,"
+Baku, Azerbaijan
+",49.88
+-,"
+Ho Chi Minh City, Vietnam
+",49.16
+127,"
+Addis Ababa, Ethiopia
+",47.76
+-7,"
+Rabat, Morocco
+",47.63
+128,"
+Bangkok, Thailand
+",46.73
++5,"
+Haifa, Israel
+",46.25
+129,"
+Cape Town, South Africa
+",46.17
++2,"
+Chon Buri, Thailand
+",45.49
+130,"
+Mumbai, India
+",45.32
++5,"
+Hanoi, Vietnam
+",44.95
+131,"
+Istanbul, Turkey
+",43.96
+-10,"
+Astana, Kazakhstan
+",42.84
+132,"
+Beirut, Lebanon
+",41.79
+-2,"
+Casablanca, Morocco
+",40.18
+133,"
+Ankara, Turkey
+",39.65
++1,"
+Tbilisi, Georgia
+",38.53
+134,"
+Mosul, Iraq
+",38.22
+-2,"
+Tel Aviv-Yafo, Israel
+",37.46
+135,"
+Santo Domingo, Dominican Republic
+",37.28
+-7,"
+Moscow, Russia
+",37.13
+136,"
+Manila, Philippines
+",36.25
++15,"
+Vientiane, Laos
+",35.39
+137,"
+Kharkiv, Ukraine
+",34.88
++1,"
+Chisinau, Moldova
+",34.70
+138,"
+Sfax, Tunisia
+",34.55
+-2,"
+Guadalajara, Mexico
+",33.43
+139,"
+Buenos Aires, Argentina
+",33.34
+-,"
+Guatemala City, Guatemala
+",33.01
+140,"
+Tehran, Iran
+",32.99
++1,"
+Mandalay, Myanmar (Burma)
+",32.34
+141,"
+Samarkand, Uzbekistan
+",31.57
++5,"
+Santiago, Chile
+",31.52
+142,"
+Yangon, Myanmar (Burma)
+",30.19
+-5,"
+Mashhad, Iran
+",30.18
+143,"
+Tegucigalpa, Honduras
+",30.06
+-1,"
+Oran, Algeria
+",29.73
+144,"
+Kiev, Ukraine
+",29.60
+-4,"
+Maputo, Mozambique
+",29.16
+145,"
+San José, Costa Rica
+",28.86
+-1,"
+Dar es Salaam, Tanzania
+",28.85
+146,"
+Phnom Penh, Cambodia
+",27.76
++3,"
+Saint Petersburg, Russia
+",27.31
+147,"
+Kingston, Jamaica
+",27.19
+-2,"
+San Pedro Sula, Honduras
+",27.18
+148,"
+Bekasi, Indonesia
+",26.84
+-5,"
+Colombo, Sri Lanka
+",26.84
+149,"
+Mexico City, Mexico
+",26.48
+-2,"
+Tashkent, Uzbekistan
+",26.48
+150,"
+Lagos, Nigeria
+",26.40
++6,"
+Córdoba, Argentina
+",26.32
+151,"
+South Jakarta, Indonesia
+",25.73
++12,"
+Bishkek, Kyrgyzstan
+",25.58
+152,"
+Tunis, Tunisia
+",25.43
++3,"
+Nairobi, Kenya
+",25.34
+153,"
+Santiago De Los Caballeros, Dominican Republic
+",24.83
+-3,"
+Dhaka, Bangladesh
+",24.82
+154,"
+Abidjan, Côte d'Ivoire
+",24.73
+-2,"
+Amman, Jordan
+",24.59
+155,"
+San Salvador, El Salvador
+",24.00
+-1,"
+Guayaquil, Ecuador
+",23.70
+156,"
+Chittagong, Bangladesh
+",23.06
+-3,"
+Davao City, Philippines
+",22.89
+157,"
+Az-Zarqa, Jordan
+",22.88
+-,"
+Baghdad, Iraq
+",22.58
+158,"
+Cairo, Egypt
+",22.57
++9,"
+Algiers, Algeria
+",22.52
+159,"
+Yerevan, Armenia
+",22.42
+-1,"
+Quito, Ecuador
+",22.40
+160,"
+Luanda, Angola
+",21.60
++6,"
+Lusaka, Zambia
+",21.48
+161,"
+Alexandria, Egypt
+",20.52
+-2,"
+Panama City, Panama
+",20.22
+162,"
+Mogadishu, Somalia
+",20.13
+-14,"
+Asuncion, Paraguay
+",20.02
+163,"
+Managua, Nicaragua
+",19.49
++6,"
+Karachi, Pakistan
+",19.37
+164,"
+Damascus, Syria
+",18.47
+-4,"
+Lahore, Pakistan
+",17.90
+165,"
+Ulaanbaatar, Mongolia
+",17.43
+-1,"
+Minsk, Belarus
+",17.04
+166,"
+Lima, Peru
+",17.03
+-4,"
+Caracas, Venezuela
+",16.06
+167,"
+Medellín, Colombia
+",16.04
++7,"
+Bogotá, Colombia
+",15.69
+168,"
+Accra, Ghana
+",13.99
+-3,"
+Arequipa, Peru
+",13.32
+169,"
+Kathmandu, Nepal
+",13.25
++9,"
+Tripoli, Libya
+",12.75
+170,"
+Dushanbe, Tajikistan
+",12.34
++1,"
+Misrata, Libya
+",12.21
+171,"
+Port-au-Prince, Haiti
+",12.19
++1,"
+Santa Cruz de la Sierra, Bolivia
+",11.98
+172,"
+Gomel, Belarus
+",11.08
+-2,"
+La Paz, Bolivia
+",10.98
+173,"
+Sana'a, Yemen
+",10.29
+-5,"
+Khartoum, Sudan
+",9.99
+174,"
+Havana, Cuba
+",9.34
+-1,"
+Kabul, Afghanistan
+",9.22
+175,"
+
+Hong Kong (SAR)
+
+",7.76
+-,"
+
+Singapore
+
+",7.63
+176,"
+
+Chile
+
+",5.42
+-15,"
+
+United Arab Emirates
+
+",4.73
+177,"
+
+Thailand
+
+",Mbps
+-1,"
+
+United States
+
+",265.17
+178,"
+
+China
+
+",259.11
+-1,"
+
+Denmark
+
+",246.39
+179,"
+
+Spain
+
+",231.98
++3,"
+
+Iceland
+
+",219.10
+180,"
+
+France
+
+",213.75
+-,"
+
+Romania
+
+",212.92
+181,"
+
+Switzerland
+
+",204.49
+-,"
+
+New Zealand
+
+",188.49
+#,"
+
+Israel
+
+",187.57
+1,"
+
+Macau (SAR)
+
+",187.10
+-,"
+
+Canada
+
+",178.90
+2,"
+
+Monaco
+
+",173.77
+-,"
+
+Japan
+
+",164.84
+3,"
+
+Hungary
+
+",162.05
++2,"
+
+Liechtenstein
+
+",160.52
+4,"
+
+Kuwait
+
+",158.35
+-1,"
+
+Qatar
+
+",157.41
+5,"
+
+Panama
+
+",157.05
++3,"
+
+Portugal
+
+",155.56
+6,"
+
+Uruguay
+
+",150.10
+-2,"
+
+Netherlands
+
+",149.28
+7,"
+
+Taiwan
+
+",145.01
++2,"
+
+Andorra
+
+",144.72
+8,"
+
+Brazil
+
+",143.79
++7,"
+
+Poland
+
+",143.34
+9,"
+
+Moldova
+
+",143.20
+-3,"
+
+Sweden
+
+",138.78
+10,"
+
+Norway
+
+",136.33
+-3,"
+
+South Korea
+
+",131.94
+11,"
+
+Luxembourg
+
+",124.96
+-1,"
+
+Malta
+
+",119.89
+12,"
+
+Colombia
+
+",117.16
+-1,"
+
+Lithuania
+
+",112.97
+13,"
+
+Jordan
+
+",112.41
++30,"
+
+Malaysia
+
+",106.85
+14,"
+
+Finland
+
+",105.20
++2,"
+
+Barbados
+
+",104.90
+15,"
+
+Saudi Arabia
+
+",104.15
++4,"
+
+Trinidad and Tobago
+
+",100.63
+16,"
+
+Vietnam
+
+",100.57
+-4,"
+
+Saint Lucia
+
+",100.13
+17,"
+
+Saint Vincent and the Grenadines
+
+",99.82
+-4,"
+
+Ireland
+
+",97.13
+18,"
+
+Dominica
+
+",96.29
++2,"
+
+Peru
+
+",94.45
+19,"
+
+Belgium
+
+",94.19
+-2,"
+
+Slovenia
+
+",93.64
+20,"
+
+Germany
+
+",93.28
++19,"
+
+Brunei
+
+",92.35
+21,"
+
+Philippines
+
+",91.64
+-3,"
+
+United Kingdom
+
+",90.93
+22,"
+
+Russia
+
+",87.28
+-8,"
+
+Bahrain
+
+",87.03
+23,"
+
+Paraguay
+
+",83.13
+-2,"
+
+Latvia
+
+",83.09
+24,"
+
+Costa Rica
+
+",82.80
+-1,"
+
+Austria
+
+",81.70
+25,"
+
+Grenada
+
+",80.57
++2,"
+
+Estonia
+
+",79.99
+26,"
+
+Bulgaria
+
+",78.99
++2,"
+
+Ecuador
+
+",77.67
+27,"
+
+Slovakia
+
+",75.97
+-3,"
+
+Argentina
+
+",75.45
+28,"
+
+San Marino
+
+",75.26
++5,"
+
+Ukraine
+
+",74.44
+29,"
+
+Serbia
+
+",73.15
+-4,"
+
+Cyprus
+
+",73.09
+30,"
+
+Italy
+
+",72.63
+-4,"
+
+Oman
+
+",72.00
+31,"
+
+Palestine
+
+",70.64
+-,"
+
+Czechia
+
+",70.30
+32,"
+
+Kosovo
+
+",69.41
+-10,"
+
+Mexico
+
+",66.81
+33,"
+
+Jamaica
+
+",66.78
+-4,"
+
+Egypt
+
+",64.37
+34,"
+
+Côte d'Ivoire
+
+",63.50
++8,"
+
+Nepal
+
+",62.17
+35,"
+
+The Bahamas
+
+",62.14
++2,"
+
+Montenegro
+
+",60.63
+36,"
+
+Guyana
+
+",59.71
++5,"
+
+India
+
+",58.28
+37,"
+
+Australia
+
+",57.91
+-7,"
+
+Saint Kitts and Nevis
+
+",56.93
+38,"
+
+Mongolia
+
+",56.75
+-6,"
+
+Uzbekistan
+
+",55.08
+39,"
+
+Belarus
+
+",54.56
+-4,"
+
+Kyrgyzstan
+
+",54.07
+40,"
+
+Nicaragua
+
+",54.05
++6,"
+
+Albania
+
+",53.55
+41,"
+
+Kazakhstan
+
+",53.08
+-7,"
+
+Croatia
+
+",53.00
+42,"
+
+El Salvador
+
+",52.22
+-4,"
+
+Mauritius
+
+",50.18
+43,"
+
+Armenia
+
+",49.15
++4,"
+
+Greece
+
+",48.59
+44,"
+
+Burkina Faso
+
+",48.28
++1,"
+
+Belize
+
+",47.67
+45,"
+
+Guatemala
+
+",47.61
++8,"
+
+South Africa
+
+",47.48
+46,"
+
+Congo
+
+",45.87
+-2,"
+
+Bangladesh
+
+",45.11
+47,"
+
+North Macedonia
+
+",44.22
+-7,"
+
+Honduras
+
+",43.69
+48,"
+
+Turkey
+
+",42.29
++18,"
+
+Antigua and Barbuda
+
+",40.85
+49,"
+
+Haiti
+
+",38.97
++12,"
+
+Rwanda
+
+",38.85
+50,"
+
+Dominican Republic
+
+",37.57
++10,"
+
+Gabon
+
+",36.92
+51,"
+
+Laos
+
+",35.39
+-1,"
+
+Venezuela
+
+",33.98
+52,"
+
+Ghana
+
+",33.81
++3,"
+
+Azerbaijan
+
+",33.48
+53,"
+
+Bolivia
+
+",33.36
++3,"
+
+Bosnia and Herzegovina
+
+",32.40
+54,"
+
+Togo
+
+",32.28
++32,"
+
+Iraq
+
+",31.06
+55,"
+
+Seychelles
+
+",29.29
++2,"
+
+Indonesia
+
+",28.98
+56,"
+
+Georgia
+
+",28.20
+-2,"
+
+Tajikistan
+
+",28.07
+57,"
+
+Cambodia
+
+",27.81
++1,"
+
+Western Sahara
+
+",27.75
+58,"
+
+Mauritania
+
+",27.65
+-9,"
+
+Morocco
+
+",25.59
+59,"
+
+Senegal
+
+",24.45
++3,"
+
+Benin
+
+",23.38
+60,"
+
+Madagascar
+
+",23.27
+-12,"
+
+Lesotho
+
+",22.44
+61,"
+
+Mali
+
+",22.27
+-2,"
+
+Myanmar (Burma)
+
+",21.33
+62,"
+
+Sri Lanka
+
+",21.20
++9,"
+
+Cape Verde
+
+",20.57
+63,"
+
+Djibouti
+
+",20.30
+-12,"
+
+Tanzania
+
+",19.76
+64,"
+
+Nigeria
+
+",19.62
++11,"
+
+Angola
+
+",19.35
+65,"
+
+Fiji
+
+",19.27
++4,"
+
+Sierra Leone
+
+",18.00
+66,"
+
+Malawi
+
+",17.79
+-3,"
+
+Namibia
+
+",17.60
+67,"
+
+Maldives
+
+",15.87
+-3,"
+
+Uganda
+
+",15.60
+68,"
+
+Mozambique
+
+",14.12
+-,"
+
+Pakistan
+
+",13.56
+69,"
+
+Zambia
+
+",13.22
+-4,"
+
+Iran
+
+",12.86
+70,"
+
+Suriname
+
+",12.56
++58,"
+
+Algeria
+
+",12.54
+71,"
+
+Bhutan
+
+",12.06
++2,"
+
+Micronesia
+
+",11.81
+72,"
+
+Kenya
+
+",11.66
+-36,"
+
+DR Congo
+
+",11.65
+73,"
+
+Papua New Guinea
+
+",11.64
++9,"
+
+Guinea
+
+",11.48
+74,"
+
+Cameroon
+
+",11.05
+-,"
+
+Somalia
+
+",10.19
+75,"
+
+Vanuatu
+
+",10.05
+-3,"
+
+Zimbabwe
+
+",9.91
+76,"
+
+Tunisia
+
+",9.75
+-6,"
+
+Libya
+
+",9.69
+77,"
+
+Botswana
+
+",9.45
+-10,"
+
+Lebanon
+
+",9.44
+78,"
+
+Swaziland
+
+",9.36
++2,"
+
+Liberia
+
+",8.67
+79,"
+
+Niger
+
+",8.63
+-3,"
+
+Sudan
+
+",8.18
+80,"
+
+The Gambia
+
+",8.10
++3,"
+
+Ethiopia
+
+",7.75
+81,"
+
+Yemen
+
+",7.56
++15,"
+
+East Timor
+
+",6.96
+82,"
+
+Burundi
+
+",6.56
+-4,"
+
+Syria
+
+",6.23
+83,"
+
+Afghanistan
+
+",5.91
+-6,"
+
+Cuba
+
+",5.62
+84,"
+Abu Dhabi, United Arab Emirates
+",5.54
+-,"
+Valparaíso, Chile
+",5.43
+85,"
+Beijing, China
+",4.39
++19,"
+Shanghai, China
+",3.18
+86,"
+Bangkok, Thailand
+",2.13
++5,"
+New York, United States
+",Mbps
+87,"
+Lyon, France
+",270.24
++1,"
+Madrid, Spain
+",264.56
+88,"
+Bucharest, Romania
+",262.08
+-9,"
+Santiago, Chile
+",241.70
+89,"
+Chon Buri, Thailand
+",235.32
++1,"
+Los Angeles, United States
+",231.66
+90,"
+Copenhagen, Denmark
+",225.22
+-9,"
+Zürich, Switzerland
+",223.88
+91,"
+Barcelona, Spain
+",223.72
++3,"
+Budapest, Hungary
+",213.28
+92,"
+Geneva, Switzerland
+",212.47
++5,"
+Dubai, United Arab Emirates
+",210.34
+93,"
+Haifa, Israel
+",208.95
++7,"
+Ar-Rayyan, Qatar
+",204.08
+94,"
+New Taipei, Taiwan
+",202.47
+-5,"
+Toronto, Canada
+",197.37
+95,"
+Auckland, New Zealand
+",190.89
+-2,"
+Kraków, Poland
+",189.59
+96,"
+Chisinau, Moldova
+",188.47
+-9,"
+Paris, France
+",187.26
+97,"
+São Paulo, Brazil
+",178.58
++2,"
+Rio de Janeiro, Brazil
+",178.26
+98,"
+Taipei, Taiwan
+",173.65
+-3,"
+Montevideo, Uruguay
+",165.83
+99,"
+Warsaw, Poland
+",162.44
++4,"
+Gothenburg, Sweden
+",159.84
+100,"
+Tokyo, Japan
+",155.61
++1,"
+Panama City, Panama
+",151.72
+101,"
+Osaka, Japan
+",147.83
++4,"
+Doha, Qatar
+",144.80
+102,"
+Stockholm, Sweden
+",144.22
+-,"
+Bogotá, Colombia
+",143.87
+103,"
+Porto, Portugal
+",141.74
++4,"
+Vilnius, Lithuania
+",137.42
+104,"
+Kuwait City, Kuwait
+",136.60
++5,"
+Milan, Italy
+",136.02
+105,"
+Ho Chi Minh City, Vietnam
+",132.67
++5,"
+Medellín, Colombia
+",131.72
+106,"
+Tel Aviv-Yafo, Israel
+",131.70
++9,"
+Rotterdam, Netherlands
+",131.58
+107,"
+Amsterdam, Netherlands
+",131.24
+-9,"
+Riyadh, Saudi Arabia
+",128.16
+108,"
+Montreal, Canada
+",125.43
+-2,"
+Buenos Aires, Argentina
+",123.73
+109,"
+Dublin, Ireland
+",121.79
+-1,"
+Amman, Jordan
+",117.20
+110,"
+Lima, Peru
+",115.97
++4,"
+Seoul, South Korea
+",113.75
+111,"
+Hanoi, Vietnam
+",110.83
+-,"
+Oslo, Norway
+",110.59
+112,"
+Lisbon, Portugal
+",110.55
++4,"
+Vienna, Austria
+",110.53
+113,"
+Johor Bahru, Malaysia
+",108.53
++5,"
+London, United Kingdom
+",104.94
+114,"
+Kuala Lumpur, Malaysia
+",104.45
++8,"
+Busan, South Korea
+",102.85
+115,"
+Riga, Latvia
+",102.55
++8,"
+Berlin, Germany
+",101.85
+116,"
+Helsinki, Finland
+",100.22
++1,"
+Manila, Philippines
+",98.56
+117,"
+Rome, Italy
+",98.04
++8,"
+Moscow, Russia
+",94.71
+118,"
+Zagreb, Croatia
+",94.67
++2,"
+Jeddah, Saudi Arabia
+",94.60
+119,"
+Belgrade, Serbia
+",93.76
++7,"
+Arequipa, Peru
+",93.75
+120,"
+Az-Zarqa, Jordan
+",93.56
++1,"
+Hamburg, Germany
+",93.42
+121,"
+Manchester, United Kingdom
+",93.35
+-9,"
+San José, Costa Rica
+",93.06
+122,"
+Kiev, Ukraine
+",93.04
++7,"
+Antwerp, Belgium
+",92.91
+123,"
+Guayaquil, Ecuador
+",92.20
++1,"
+Port of Spain, Trinidad and Tobago
+",91.38
+124,"
+Saint Petersburg, Russia
+",91.25
+-5,"
+Davao City, Philippines
+",90.07
+125,"
+Sofia, Bulgaria
+",89.75
++2,"
+Asuncion, Paraguay
+",89.49
+126,"
+Brussels, Belgium
+",89.02
+-13,"
+Córdoba, Argentina
+",88.64
+127,"
+Prague, Czechia
+",88.59
++3,"
+Guadalajara, Mexico
+",88.34
+128,"
+Delhi, India
+",85.59
++6,"
+Quito, Ecuador
+",83.09
+129,"
+Maracaibo, Venezuela
+",82.71
++2,"
+Kharkiv, Ukraine
+",79.77
+130,"
+Mexico City, Mexico
+",78.26
++5,"
+Manama, Bahrain
+",78.01
+131,"
+Kathmandu, Nepal
+",77.44
++6,"
+Muscat, Oman
+",76.86
+132,"
+Minsk, Belarus
+",76.37
++4,"
+Gomel, Belarus
+",76.36
+133,"
+Abidjan, Côte d'Ivoire
+",73.28
++8,"
+Kingston, Jamaica
+",71.69
+134,"
+Alexandria, Egypt
+",69.92
++4,"
+Almaty, Kazakhstan
+",65.82
+135,"
+Sydney, Australia
+",63.07
++5,"
+Johannesburg, South Africa
+",62.16
+136,"
+Tashkent, Uzbekistan
+",60.38
++3,"
+Astana, Kazakhstan
+",60.21
+137,"
+Bishkek, Kyrgyzstan
+",57.70
+-5,"
+Melbourne (Greater), Australia
+",55.89
+138,"
+Yerevan, Armenia
+",55.71
++5,"
+Skopje, North Macedonia
+",55.50
+139,"
+San Salvador, El Salvador
+",54.92
++3,"
+Ulaanbaatar, Mongolia
+",54.88
+140,"
+Thessaloniki, Greece
+",54.69
++5,"
+Santo Domingo, Dominican Republic
+",54.53
+141,"
+Mumbai, India
+",53.32
++3,"
+Guatemala City, Guatemala
+",53.10
+#,"
+Managua, Nicaragua
+",52.24
+1,"
+Athens, Greece
+",51.34
+-,"
+Cape Town, South Africa
+",50.37
+2,"
+Dhaka, Bangladesh
+",50.25
++2,"
+Ouagadougou, Burkina Faso
+",49.74
+3,"
+Istanbul, Turkey
+",49.67
++2,"
+Samarkand, Uzbekistan
+",48.10
+4,"
+Pointe-Noire, Congo
+",47.80
+-2,"
+Ankara, Turkey
+",47.47
+5,"
+San Pedro Sula, Honduras
+",46.70
+-2,"
+Brazzaville, Congo
+",46.58
+6,"
+Tegucigalpa, Honduras
+",46.38
++2,"
+Kigali, Rwanda
+",44.75
+7,"
+Vientiane, Laos
+",43.51
+-1,"
+Chittagong, Bangladesh
+",41.55
+8,"
+South Jakarta, Indonesia
+",40.53
++1,"
+Cairo, Egypt
+",39.69
+9,"
+Libreville, Gabon
+",39.45
+-2,"
+Port-au-Prince, Haiti
+",37.08
+10,"
+Bekasi, Indonesia
+",36.80
++13,"
+Accra, Ghana
+",36.59
+11,"
+Lome, Togo
+",36.25
+-1,"
+La Paz, Bolivia
+",34.01
+12,"
+Baku, Azerbaijan
+",33.32
++6,"
+Rabat, Morocco
+",33.06
+13,"
+Antananarivo, Madagascar
+",31.86
+-1,"
+Baghdad, Iraq
+",30.64
+14,"
+Santa Cruz de la Sierra, Bolivia
+",29.74
+-1,"
+Santiago De Los Caballeros, Dominican Republic
+",29.70
+15,"
+Casablanca, Morocco
+",29.52
+-4,"
+Tbilisi, Georgia
+",28.67
+16,"
+Dakar, Senegal
+",28.51
++23,"
+Dushanbe, Tajikistan
+",28.34
+17,"
+Nouakchott, Mauritania
+",28.09
++27,"
+Lagos, Nigeria
+",27.73
+18,"
+Phnom Penh, Cambodia
+",27.00
+-3,"
+Cotonou, Benin
+",26.94
+19,"
+Mosul, Iraq
+",26.74
+-3,"
+Bamako, Mali
+",25.96
+20,"
+Yangon, Myanmar (Burma)
+",24.82
+-6,"
+Kinshasa, DR Congo
+",24.67
+21,"
+Mandalay, Myanmar (Burma)
+",22.31
++1,"
+Lilongwe, Malawi
+",22.15
+22,"
+Dar es Salaam, Tanzania
+",21.99
+-1,"
+Caracas, Venezuela
+",21.14
+23,"
+Colombo, Sri Lanka
+",20.82
+-6,"
+Luanda, Angola
+",20.48
+24,"
+Djibouti, Djibouti
+",20.43
+-5,"
+Karachi, Pakistan
+",19.73
+25,"
+Maputo, Mozambique
+",19.44
++4,"
+Algiers, Algeria
+",18.58
+26,"
+Kampala, Uganda
+",18.25
++1,"
+Lahore, Pakistan
+",17.67
+27,"
+Tehran, Iran
+",17.49
+-7,"
+Mombasa, Kenya
+",16.64
+28,"
+Lusaka, Zambia
+",13.85
+-2,"
+Oran, Algeria
+",13.49
+29,"
+Nairobi, Kenya
+",13.08
+-5,"
+Conakry, Guinea
+",12.79
+30,"
+Mashhad, Iran
+",12.66
+-5,"
+Tunis, Tunisia
+",12.38
+31,"
+Mogadishu, Somalia
+",12.32
+-1,"
+Yaounde, Cameroon
+",11.86
+32,"
+Douala, Cameroon
+",11.14
+-4,"
+Tripoli, Libya
+",9.83
+33,"
+Sfax, Tunisia
+",9.63
+-1,"
+Harare, Zimbabwe
+",9.41
+34,"
+Beirut, Lebanon
+",9.41
++2,"
+Khartoum, Sudan
+",9.37
+35,"
+Addis Ababa, Ethiopia
+",9.32
+-2,"
+Sana'a, Yemen
+",9.25
+36,"
+Aden, Yemen
+",8.71
+-5,"
+Kabul, Afghanistan
+",8.57
+37,"
+Havana, Cuba
+",7.50
+-2,"
+
+United Arab Emirates
+
+",6.22
+38,"
+
+Qatar
+
+",5.46
+-,"
+
+South Korea
+
+",5.28
+39,"
+
+Bulgaria
+
+",4.03
++1,"
+
+Kuwait
+
+",2.85
+40,"
+
+Macau (SAR)
+
+",2.13
